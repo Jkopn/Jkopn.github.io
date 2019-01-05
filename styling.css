@@ -12,7 +12,8 @@ body{
 
 h1 {
 	color: green;text-align: center;
-
+	position: relative;
+	margin-left: 320px;
 }
 	
 		
