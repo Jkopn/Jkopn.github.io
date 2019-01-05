@@ -1,0 +1,40 @@
+/*
+
+CSS Style Sheet for Github Website.
+Revisions:
+Rev 1 - JK 1/5/2019
+
+*/
+
+body{
+	background-color: cornflowerBlue;
+}
+
+h1 {
+	color: green;text-align: center;
+}
+	
+		
+nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 300px;
+	height: 100vh;
+	border: 5px solid blue;
+	background: url(sky1.JPG);
+	color: orange;
+	font-size: 2em;
+	line-height: 100px:
+	text-align: left;
+}
+	
+li {
+	margin-bottom: 30px;
+	}
+	
+p {
+	position: relative;
+	margin-left: 320px;
+}	
+	
