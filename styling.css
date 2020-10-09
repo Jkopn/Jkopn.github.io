@@ -7,11 +7,12 @@ Rev 1 - JK 1/5/2019
 */
 
 body{
-	background-color: cornflowerBlue;
+	background-color: DarkCyan;
 }
 
 h1 {
-	color: green;text-align: center;
+	color: DarkSlateBlue;
+	text-align: center;
 	position: relative;
 	margin-left: 320px;
 }
@@ -23,7 +24,7 @@ nav {
 	left: 0;
 	width: 300px;
 	height: 100vh;
-	border: 5px solid blue;
+	border: 2px solid purple;
 	background: url(sky1.JPG);
 	color: orange;
 	font-size: 2em;
